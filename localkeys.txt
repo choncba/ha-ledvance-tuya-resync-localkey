@@ -1,0 +1,19 @@
+Please put your Tuya/Ledvance username: choncba@gmail.com
+Please put your Tuya/Ledvance password: 
+---------------------------
+device name:    Luz Pileta 3
+device id:      ebf150ccaf5a1355efzabl
+local key:      {!;;/Lp84mp'?~gU      
+---------------------------
+device name:    Luz Pileta 2
+device id:      eb1ca5c1c9bf0085f2uovg
+local key:      bmKLbt({VX;zW{uc      
+---------------------------
+device name:    Luz Pileta 1
+device id:      eb7760b5a5d7a5e280hs8d
+local key:      x*U{XVGVaF(!5S$G      
+---------------------------
+device name:    Luz Comedor
+device id:      ebb34fcd618e21e78c2nhk
+local key:      %'dW]HrcX|3k[kTj      
+---------------------------
